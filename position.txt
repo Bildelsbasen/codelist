@@ -1,0 +1,34 @@
+0;No position
+1;Left Front Below
+2;Right Front Below
+3;Right Front Upper
+4;Left Front Upper
+5;Right Rear Outer
+6;Left Rear Outer
+7;Left Rear inre
+8;Right Rear inre
+9;Left Front
+10;Right Front
+11;Left Rear
+12;Right Rear
+13;Left
+14;Right
+15;Middel
+16;Upper
+17;Below
+18;Left Rear Upper
+19;Left Rear Below
+20;Right Rear Upper
+21;Right Rear Below
+22;Rear
+23;Front
+24;Middel Front
+25;Middel Rear
+27;Internal Front
+28;Internal Rear
+36;Right Front Outer
+37;Left Front Outer
+42;Middel Right
+43;Middel Left
+44;Outer
+45;Internal
