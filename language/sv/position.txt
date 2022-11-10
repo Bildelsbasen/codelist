@@ -1,0 +1,34 @@
+0:Ingen pos
+1:Vänster fram undre
+2:Höger fram undre
+3:Höger fram övre
+4:Vänster fram övre
+5:Höger bak yttre
+6:Vänster bak yttre
+7:Vänster bak inre
+8:Höger bak inre
+9:Vänster fram
+10;Höger fram
+11;Vänster bak
+12;Höger bak
+13;Vänster
+14;Höger
+15;Mitten
+16;Övre
+17;Nedre
+18;Vänster bak övre
+19;Vänster bak undre
+20;Höger bak övre
+21;Höger bak undre
+22;Bakre
+23;Främre
+24;Mitt fram
+25;Mitt bak
+27;Inv fram
+28;Inv bak
+36;Höger fram yttre
+37;Vänster fram yttre
+42;Mitt höger
+43;Mitt vänster
+44;Yttre
+45;Inre
